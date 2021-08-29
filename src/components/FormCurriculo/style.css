@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.cadCurriculo {
+  background: #fff;
+  padding: 80px 0 20px;
+}
+
+.cadCurriculo-form {
+  padding: 60px 30px;
+  margin: 0 auto;
+  max-width: 60%;
+  background: #5A92E6;
+  border-radius: 40px;
+  box-shadow: 2px 2px 10px 2px rgba(0, 0, 0, .5);
+  color: #0060AE;
+}
+
+.cadCurriculo-form input {
+  width: 100%;
+  height: 30px;
+  border-radius: 8px;
+  border: none;
+  padding: 0 10px;
+  margin: 2px 0 5px;
+}
+.cadCurriculo-form input::placeholder {
+  color: #877455;
+}
+
+.cadCurriculo-form span {
+  color: #A63656;
+}
+
+.cadCurriculo-form_item {
+  margin-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nome,
+.logradouro,
+.profissao {
+  flex: 1 1 100%;
+  margin: 0 5px;
+}
+
+.cpf,
+.nascimento,
+.cidade,
+.estado,
+.emailForm,
+.celular
+ {
+  width: calc(50% - 10px);
+  margin: 0 5px;
+}
+
+.cep {
+  width: calc(50% - 10px);
+  margin: 0 5px;
+}
+
+.numero,
+.complemento {
+  flex: 1 1 calc(15% - 20px);
+  margin: 0 5px;
+}
+
+.bairro {
+  flex: 3 1 calc(70% - 10px);
+  margin: 0 5px;
+}
+
+.addCurriculo {
+  margin: 10px  5px 0;
+}
+
+#file {
+  height: 40px;
+  padding-left: 5px;
+  margin-left: -5px;
+}
+
+#file::file-selector-button {
+  cursor: pointer;
+  background: #0060AE;
+  color: #fff;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px .8px rgba(0, 0, 0, .3);
+  margin: 5px 10px 5px 0;
+  width: 50%;
+  font-weight: bold;
+  font-size: 1.05em;
+  transition: all 250ms ease-out;
+}
+#file::file-selector-button:hover {
+  box-shadow: 1px 1px 5px .8px rgba(0, 0, 0, .4);
+  background: #E2F0FF;
+  color: #0060AE;
+  font-size: 1em;
+}
+
+.cadCurriculo-btn {
+  cursor: pointer;
+  display: block;
+  margin: 40px auto 0;
+  width: 100%;
+  height: 50px;
+  background: #D8A31A;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 20px;
+  border: none;
+  text-transform: uppercase;
+  font-size: 1.125em;
+  box-shadow: 3px 3px 8px 1px rgba(0, 0, 0, .4);
+  transition: all 250ms ease-out;
+}
+.cadCurriculo-btn:hover {
+  background: #A63656;
+  color: #FFEECB;
+  font-size: 1em;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, .4);
+}
+
+.footer-marca {
+  margin: 40px 0 0 auto;
+  max-height: 70px;
+}
+
+@media (max-width: 739px) {
+  .intro {
+    height: 100%;
+  }
+  .intro_cadUsuario {
+    flex-direction: column;
+  }
+  .formSide {
+    margin-bottom: 20px;
+  }
+  .cadCurriculo {
+    padding: 40px 0 20px ;
+  }
+  .cadCurriculo-form {
+    max-width: 90%;
+  }
+  #file::file-selector-button {
+    font-size: .85em;
+  }
+  .footer-marca {
+    margin-top: 20px;
+  }
+}
