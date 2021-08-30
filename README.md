@@ -4,7 +4,7 @@
 # __JobsNET__
 
 
-####   __[Aqui você encontra o  repositório back-end desse projeto](https://github.com/ludmillalopes/jobsnet_back-end)__
+####   __[Aqui você encontra o  repositório back-end](https://github.com/ludmillalopes/jobsnet_back-end)__
 
 
 Esse projeto foi desenvolvido durante o Programa de bolsas Start Tech.<br />
