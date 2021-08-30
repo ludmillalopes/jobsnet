@@ -15,7 +15,7 @@ O objetivo desse projeto é desenvolver uma landing page para atração de profi
 a pedido da empresa JobsNET (fictícia). O resultado é apresentado a seguir.
 
 
-A landing page foi hospedada por meio da plataforma __[Heroku](https://www.npmjs.com/package/cpf-cnpj-validator)__.<br />
+A landing page foi hospedada por meio da plataforma __[Heroku](https://www.heroku.com)__.<br />
 Sua URL é <https://jobsnetvagas.herokuapp.com/>
 
 
