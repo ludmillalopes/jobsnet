@@ -1,6 +1,3 @@
-### Atenção - O código está na branch master ##
-
-
 # __JobsNET__
 
 
