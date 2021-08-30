@@ -57,7 +57,7 @@ A documentação dos recursos Web Services REST foi realizada com uso do __[Swag
       `npm install swagger-ui-express`
 
 
-➙  Disponibilizada Aqui__ <https://jobsnet-back-end.herokuapp.com/docs/>__
+➙  Disponibilizada Aqui __<https://jobsnet-back-end.herokuapp.com/docs/>__
 
 
 ## Tecnologias
