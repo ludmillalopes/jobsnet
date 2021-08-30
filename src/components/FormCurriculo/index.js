@@ -28,7 +28,7 @@ const AddCurriculo = () => {
   }
   
   const createCandidate = async () => {
-    const user = await axios.post('https://jobsnetvagas.herokuapp.com/register', form);
+    const user = await axios.post('https://jobsnet-back-end.herokuapp.com/register', form);
     if(user.status === 200) {
       alert('Seu cadastro foi concluído com sucesso!');
     } else {
