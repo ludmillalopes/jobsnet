@@ -13,10 +13,10 @@ a pedido da empresa JobsNET (fictícia). O resultado é apresentado a seguir.
 
 
 A landing page foi hospedada por meio da plataforma __[Heroku](https://www.heroku.com)__.<br />
-Sua URL é <https://jobsnetvagas.herokuapp.com/>
+Sua URL é __<https://jobsnetvagas.herokuapp.com/>__
 
 
-![Imagem da landing page JobsNET](https://lh3.googleusercontent.com/jFW8I5GsK-aELivliNXdguGb568Ukt76HlvK8aAM-zwgGt4VYIRx5d-_EzAMjPolQu35v1uiBRwacxhHpYeuk8qeh8WB-8ZtZzwHUWbdi1EexOFoJxZXWVVQxIeBDz_NkZ-wg6VZnunVTJwwbh8P5xziRfMR369-PInHffFJ8qlr_na8YM4JTZhYji6yHhnWHPBSvoiVgdarH6iwr9fueUvlZ1ccuIryZ9-BPWsEEpajwsYQQNGaPWe0DP9-8DuXZZr8AExtDEc_Z3XPuhR_XPb-meqidICxoNYuPHJkXU1UXHFxL6I4a3y60fVairc9QWCFXbwx_LZzv82o8d31_cyUNLROJNhCKmXuCfui_kTHGxILDQ6R1eQpI3Oh6N9TEQfgmYgNuoGVN0Knrme1QzOVjiFfw2IbBtYilqXof9Zy-b9FH_pxV_vSIPUpwQFsDC5dyvxCMCZ4Vj-9HbXbNhe680CCqXoNwrW6UN-codnKeo597tr9nLSJTiCPfHiM3SDb8VC37P2LIbfxuQIwfGVQRdUedguYCEwmz5SdSqjcswBUVJ0rLjaVjBWyuaP5KRzrUJ-CaquTIVXemQi7WaQY2i_Oy9H4xrBrDegrniMx6Rz99vRdyZbHEUEOG8y3gSqJgj98upQzgiJye78S4muXtl3XiwP9MTLnuv40C-4Vy_RSekaglU64d4-Nn_FxdoaBjGqY_7G70zpdnGUcwD8=w1366-h662-no?authuser=0)
+![Imagem da landing page JobsNET](https://i.ibb.co/bBYVbWy/Jobsnet.png)
 
 
 ## __Estrutura__<br />
