@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.intro {
+  background: #0060AE;
+  height: 100vh;
+}
+
+.intro_header {
+  background: #fff;
+  padding: 20px 0;
+}
+
+.intro_header-marca {
+  max-height: 100px;
+}
+
+.intro_cadUsuario {
+  height: calc(100% - 140px);
+  display: flex;
+  align-items: center;
+}
+
+.intro_cadUsuario-item {
+  margin: 0 10px;
+  color: #fff;
+  text-align: left;
+}
+
+.intro_cadUsuario-item h1 {
+  margin: 40px 0 20px;
+  font-size: 3em;
+}
+.intro_cadUsuario-item p {
+  margin-bottom: 40px;
+}
+
+.formSide {
+  background: #E2F0FF;
+  color: #D8A31A;
+  padding: 40px;
+  border-radius: 40px;
+  min-width: 266px;
+}
+
+.formSide h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+}
+
+.formSide p {
+  color: #877455;
+  margin-bottom: 30px;
+}
+
+#email {
+  margin-bottom: 10px;
+}
+
+.form-item label {
+  font-weight: bold;
+}
+
+.form-item input {
+  width: 100%;
+  height: 30px;
+  border-radius: 8px;
+  border: none;
+  padding: 0 10px;
+}
+
+.form-item input::placeholder {
+  color: #877455;
+}
+
+.intro_cadUsiario-btn {
+  cursor: pointer;
+  display: block;
+  margin: 40px auto 0;
+  width: 100%;
+  height: 50px;
+  background: #D8A31A;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 20px;
+  border: none;
+  text-transform: uppercase;
+  font-size: 1.125em;
+  box-shadow: 3px 3px 8px 1px rgba(0, 0, 0, .4);
+  transition: all 250ms ease-out;
+}
+.intro_cadUsiario-btn:hover {
+  background: #A63656;
+  color: #FFEECB;
+  font-size: 1em;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, .4);
+}
