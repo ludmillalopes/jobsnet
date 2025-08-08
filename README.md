@@ -12,8 +12,8 @@ O objetivo desse projeto é desenvolver uma landing page para atração de profi
 a pedido da empresa JobsNET (fictícia). O resultado é apresentado a seguir.
 
 
-A landing page foi hospedada por meio da plataforma __[Heroku](https://www.heroku.com)__.<br />
-Sua URL é __<https://jobsnetvagas.herokuapp.com/>__
+A landing page foi hospedada por meio da plataforma __[Render](https://render.com/)__.<br />
+Sua URL é __<https://jobsnet-xfim.onrender.com>__
 
 
 ![Imagem da landing page JobsNET](https://i.ibb.co/bBYVbWy/Jobsnet.png)
@@ -54,7 +54,7 @@ A documentação dos recursos Web Services REST foi realizada com uso do __[Swag
       `npm install swagger-ui-express`
 
 
-➙  Disponibilizada aqui - __<https://jobsnet-back-end.herokuapp.com/docs/>__
+➙  Disponibilizada aqui - __<https://jobsnet.onrender.com/docs>__
 
 
 ## Tecnologias

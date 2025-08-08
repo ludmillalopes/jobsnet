@@ -9,7 +9,7 @@ import AddCurriculo from '../FormCurriculo/index';
 const Home = () => {
   
   const createUser = async () => {
-    const user = await axios.post('https://jobsnet-back-end.herokuapp.com/signUp', form);
+    const user = await axios.post('https://jobsnet.onrender.com/signUp', form);
     if(user.status === 200) {
       alert('Sua conta foi criada com sucesso!\nCadastre o seu currículo.');
     } else {
